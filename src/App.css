@@ -1,0 +1,53 @@
+
+.App{
+    /* padding: 10px 20px; */
+}
+
+.header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: #222222;
+    color: white;
+}
+
+.page{
+    padding: 57px 27px;
+    color: white;
+}
+
+.header img{
+    width: 60px;
+    align-items: center;
+    padding: 10px;
+}
+
+
+.list{
+    display: flex;
+    padding: 10px;
+    font-weight: 500;
+}
+
+.title{
+    margin: 0;
+    font-size: 39px;
+    line-height: -0.05em;
+    font-weight: 400px;
+    font-style: normal;
+}
+
+.list li{
+    margin-right: 30px;
+    list-style: none;
+    cursor: pointer;
+    
+}
+
+.main--fact{
+    margin-top: 55px;
+}
+.main--fact > li{
+   padding-block: 5px;
+   line-height: 19px;
+}
