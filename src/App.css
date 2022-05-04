@@ -51,3 +51,7 @@
    padding-block: 5px;
    line-height: 19px;
 }
+.main--fact > li::marker{
+    font-size: 1.4rem;
+    color: #61DAFB;
+}
